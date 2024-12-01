@@ -1,0 +1,13 @@
+
+.transaction-history {
+    max-width: 100%;
+  }
+  
+  .transaction-list-item {
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
+  .transaction-list-item:last-child {
+    border-bottom: none;
+  }
+  
